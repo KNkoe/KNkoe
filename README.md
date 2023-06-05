@@ -1,3 +1,5 @@
+![Software Developer  Mobile App Development  Web Design  Full Stack Web Development](https://github.com/KNkoe/KNkoe/assets/39955467/e020b5ec-f1da-46c3-a274-1e8c46347414)
+
 # 💫 About Me:
 I'm currently working as a freelance developer<br>I'm exploring the wonders of AI in mobile applications<br>I'm looking to help with Exploring New Technologies<br>How to reach me: Email - katleholnkoe@gmail.com<br>Pronouns: He/His<br>I am a Flutter enthusiast ; )<br><br>
 
