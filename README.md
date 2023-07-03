@@ -3,7 +3,7 @@
 # 💫 About Me:
 Welcome to my Github profile!
 
-I'm a currently freelance developer, fascinated by AI. I love exploring new technologies and pushing boundaries. Flutter is my passion, and I'm always up for exciting projects.
+I'm currently a freelance developer, fascinated by AI. I love exploring new technologies and pushing boundaries. Flutter is my passion, and I'm always up for exciting projects.
 
 Reach me at katleholnkoe@gmail.com. Let's connect and create amazing things together!
 
