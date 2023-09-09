@@ -7,6 +7,8 @@ I'm currently a freelance developer, fascinated by AI. I love exploring new tech
 
 Reach me at katleholnkoe@gmail.com. Let's connect and create amazing things together!
 
+My website: [katleho.pro](https://katleho.pro)
+
 Thank you for visiting my profile. Let's build the future! ; )<br><br>
 
 
