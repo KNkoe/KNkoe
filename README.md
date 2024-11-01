@@ -19,8 +19,8 @@ Hey there! 👋 I'm a passionate developer crafting seamless web and mobile expe
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=KNkoe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=KNkoe&theme=dark&hide_border=false)
 
 ## 💡 What I'm Passionate About
 - Building responsive and performant web applications with Next.js
