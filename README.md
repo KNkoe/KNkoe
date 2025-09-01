@@ -1,30 +1,48 @@
-# 💫 About Me: Next.js & Flutter Developer
+# 💫 About Me: Indie Hacker & Product Builder  
 
-Hey there! 👋 I'm a passionate developer crafting seamless web and mobile experiences using cutting-edge technologies.
+Hey! 👋 I’m Katleho — I like building **small internet products** and sharing the journey.  
+Right now, I’m exploring how **web, mobile, and AI** can come together to solve real problems.  
 
-🚀 **Web Development**: Specializing in Next.js, I build dynamic, high-performance web applications with a focus on scalability and user experience.
+🚀 **Web**: Fast, scalable apps with **Next.js + TypeScript + Tailwind**  
+📱 **Mobile**: Smooth cross-platform experiences with **Flutter**  
+🤖 **AI & Tools**: Experimenting with **LLMs, LangChain, OpenRouter, FFmpeg** to automate workflows and create new possibilities  
 
-📱 **Mobile Development**: Flutter is my go-to framework for creating beautiful, cross-platform mobile apps that look great on any device.
+---
 
-## 🛠 Tech Stack
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 🎥 Dev Central  
+I run **Dev Central**, a YouTube series where developers take on hackathon-style challenges and share their builds.  
+👉 [@katleho_nkoe on YouTube](https://www.youtube.com/@katleho_nkoe)  
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katleho-nkoe/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katleholnkoe@gmail.com)
+---
 
-## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=KNkoe&theme=dark&hide_border=false)
+## 🛠 Tech I Like Using  
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-## 💡 What I'm Passionate About
-- Building responsive and performant web applications with Next.js
-- Creating smooth, native-like mobile experiences with Flutter
-- Exploring the latest trends in web and mobile development
-- Open-source contributions and innovative tech solutions
+*(also tinkering with Firebase, MongoDB, Flask, FFmpeg, LangChain…)*  
 
-**Let's build something amazing together!** 🚀
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katleho-nkoe/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katleholnkoe@gmail.com)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@katleho_nkoe)  
+
+---
+
+## 📊 GitHub Stats  
+![](https://github-readme-streak-stats.herokuapp.com/?user=KNkoe&theme=dark&hide_border=false)  
+
+---
+
+## 💡 What Drives Me  
+- Shipping fast, learning fast, improving fast  
+- Building tools and apps people actually want to use  
+- Supporting devs and indie hackers  
+- Sharing the journey through **Dev Central**  
+
+**Always building. Always learning. Always shipping. 🚀**  
