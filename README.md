@@ -1,52 +1,46 @@
-# Hey, I’m Katleho Nkoe
+<div align="center">
 
-I’m a full-stack developer, UI/UX designer, and product builder from Lesotho.
+# Katleho Nkoe
 
-I enjoy building useful software with clean interfaces, solid systems, and a strong sense of purpose. My work often sits at the intersection of product design, engineering, automation, fintech, developer tools, and AI-assisted workflows.
+**Full-stack Developer · UI/UX Designer · Product Builder**
 
-I care about creating technology that is practical, beautiful, scalable, and useful in the real world.
+`Design → Build → Integrate → Ship`
 
-## What I Work On
+<br />
 
-- Web and mobile applications
-- Payment and messaging systems
-- Dashboards and business tools
-- AI-powered products and automations
-- Developer education and community projects
-- Digital infrastructure for African businesses
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,flutter,dart,nodejs,python,firebase,postgres,mongodb,docker,vercel,git,github&theme=dark" />
 
-## Tech I Like Working With
+<br />
+<br />
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><b>Web</b><br />Apps · Dashboards · Platforms</td>
+    <td align="center"><b>Mobile</b><br />Flutter · Firebase · Product UX</td>
+    <td align="center"><b>Systems</b><br />Payments · Messaging · APIs</td>
+    <td align="center"><b>AI</b><br />Agents · Automation · Workflows</td>
+  </tr>
+</table>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+<br />
 
-Also comfortable with Docker, Vercel, Firebase, GitHub Actions, Flask, LangChain, OpenRouter, and payment/message integrations.
+Building useful software from Lesotho.
 
-## How I Think About Building
+<br />
 
-- Start with the real user problem
-- Design the experience before overcomplicating the system
-- Keep interfaces simple, fast, and pleasant to use
-- Build systems that can grow without becoming messy
-- Use AI as leverage, not as a replacement for taste and judgment
-- Ship, learn, improve
+<a href="https://www.linkedin.com/in/katleho-nkoe/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:katleholnkoe@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@katleho_nkoe">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+</a>
 
-## Connect With Me
+<br />
+<br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Katleho%20Nkoe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katleho-nkoe/)
-[![Email](https://img.shields.io/badge/Email-katleholnkoe%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katleholnkoe@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-@katleho__nkoe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@katleho_nkoe)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KNkoe&theme=light&hide_border=true" />
 
-## GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=KNkoe&theme=light&hide_border=false)
+</div>
