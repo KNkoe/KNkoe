@@ -49,4 +49,4 @@ Also comfortable with Docker, Vercel, Firebase, GitHub Actions, Flask, LangChain
 
 ## GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=KNkoe&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=KNkoe&theme=light&hide_border=false)
